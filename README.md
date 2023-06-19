@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 <h3>No momento </h3>
 - 🔭 Cursando bacharelado em Engenheira de Software
-
 - 🌱 Estudante na EBAC
 
 <h3 align = "left"> Conecte-se a mim: </h3>
