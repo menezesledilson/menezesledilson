@@ -4,7 +4,7 @@
   
 - 🔭 Estudante curso bacharelado em Engenheira de Software  
 - 🌱 Estudante  em Back-end Java
-- ⚡ Curiosidades: Mtb, viciado em café...
+- ⚡ Curiosidades: Mtb, viciado em café..
 
 <!--
 **menezesledilson/menezesledilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
