@@ -1,10 +1,10 @@
 ### Hi there 👋
 
   <h3>No momento </h3>
-- 🔭 Atualmente curso bacharelado em Engenheira de Software e atuo como Backend Java | Kotlin Developer
-- 🌱 Me desenvolvendo em Back-end, Microsserviços, Arquitetura
-- 💬 Pergunte-me sobre `[Java, Microservices, DevOps]` 
-- ⚡ Curiosidades: Minha tatuagem preferida é de Stormtroopers, nerd que ama café e cerveja..
+  
+- 🔭 Estudante curso bacharelado em Engenheira de Software  
+- 🌱 Estudante  em Back-end Java
+- ⚡ Curiosidades: Mtb, viciado em café...
 
 <!--
 **menezesledilson/menezesledilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
