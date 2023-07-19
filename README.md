@@ -46,6 +46,6 @@ Here are some ideas to get you started:
 
 <div style="display: inline_block"><br>
        <img align="center" alt="menezesledilson-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-    <img align="center" alt="menezesledilson-PostgreSQL" height="30" src="https://i.imgur.com/QTAm4WH.png"> 
+  
 </div>
 </div>
