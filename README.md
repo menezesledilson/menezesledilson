@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 
  <h3>Backend</h3>
  <div style="display: inline_block"><br>
+   <img align="center" alt="menezesledilson-Java" height="50" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg"/>
      <img align="center" alt="menezesledilson-Java" height="50" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Java-Light.svg"/>
     <img align="center" alt="menezesledilson-Spring boot" height="30" width="40" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
 <br>
