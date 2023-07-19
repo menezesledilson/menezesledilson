@@ -37,9 +37,11 @@ Here are some ideas to get you started:
 
  <h3>Backend</h3>
  <div style="display: inline_block"><br>
-   <img align="center" alt="menezesledilson-Java" height="50" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg"/>
-     <img align="center" alt="menezesledilson-Java" height="50" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Java-Light.svg"/>
+   <img align="center" alt="menezesledilson-Idea" height="50" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg"/>
+     <img align="center" alt="menezesledilson-Java" height="50" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"/>
     <img align="center" alt="menezesledilson-Spring boot" height="50" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg"/>
+    <img align="center" alt="menezesledilson-Postman" height="50" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg"/>
+   <img align="center" alt="menezesledilson-Github" height="50" width="40" src=https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg"/>
 <br>
  </div> 
  
@@ -47,7 +49,7 @@ Here are some ideas to get you started:
 
 <div style="display: inline_block"><br>
        <img align="center" alt="menezesledilson-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-       <img align="center" alt="menezesledilson-MySQl" height="50" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MySQL-Dark.svg"/>
+       <img align="center" alt="menezesledilson-MySQl" height="50" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"/>
   
 </div>
 </div>
