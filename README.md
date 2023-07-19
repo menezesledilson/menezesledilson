@@ -26,6 +26,8 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/ledilsonmenezes" target="_blank"> <img src = "https://img.shields.io/badge/-LinkedIn-%230077B5 ? style = for-the-badge & logo = linkedin & logoColor = white "target =" _ blank "> </a> 
  </div>
  
+
+<h2>Github Statistics</h2>
 <div>
   <a href="https://github.com/menezesledilson">
     
