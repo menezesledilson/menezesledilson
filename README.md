@@ -30,9 +30,9 @@ Here are some ideas to get you started:
   <a href="https://github.com/menezesledilson">
     
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=menezesledilson&show_icons=true&theme=Dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=menezesledilson&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
-<img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=menezesledilson&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+<img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=menezesledilson&show_icons=true&theme=dark&nclude_all_commits=true&count_private=true" />
 
   
     
