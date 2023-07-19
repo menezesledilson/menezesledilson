@@ -45,10 +45,7 @@ Here are some ideas to get you started:
   <h3>Banco de Dados</h3>
 
 <div style="display: inline_block"><br>
-    <img align="center" alt="rafaelq80-MySQl" height="50" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MySQL-Dark.svg"/>
-    <img align="center" alt="rafaelq80-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-    <img align="center" alt="rafaelq80-PostgreSQL" height="30" src="https://i.imgur.com/QTAm4WH.png">
-<div> 
-  
+       <img align="center" alt="menezesledilson-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+    <img align="center" alt="menezesledilson-PostgreSQL" height="30" src="https://i.imgur.com/QTAm4WH.png"> 
 </div>
 </div>
