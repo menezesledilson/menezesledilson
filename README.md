@@ -23,27 +23,26 @@ Here are some ideas to get you started:
 
 <h3 align = "left"> Conecte-se a mim: </h3>
 <div>  
-  <a href="https://www.linkedin.com/in/ledilsonmenezes" target="_blank"> <img src = "https://img.shields.io/badge/-LinkedIn-%230077B5 ? style = for-the-badge & logo = linkedin & logoColor = white "target =" _ blank "> </a> 
- </div>
+<a href="https://www.linkedin.com/in/ledilsonmenezes" target="_blank"> <img src = "https://img.shields.io/badge/-LinkedIn-%230077B5 ? style = for-the-badge & logo = linkedin & logoColor = white "target =" _ blank "> </a> 
+</div>
  
 <h2>Github Statistics</h2>
 <div>
   <a href="https://github.com/menezesledilson">
-    
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=menezesledilson&layout=compact&langs_count=7&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=menezesledilson&show_icons=true&theme=Dark&include_all_commits=true&count_private=true"/> 
+  
+<img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=menezesledilson&layout=compact&langs_count=7&theme=dark" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=menezesledilson&show_icons=true&theme=Dark&include_all_commits=true&count_private=true"/> 
 </div>
- <h3>Backend</h3>
- _
- <div style="display: inline_block"> 
-   <img align="center" alt="menezesledilson-Idea" height="50" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg"/>
-     <img align="center" alt="menezesledilson-Java" height="50" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"/>
-    <img align="center" alt="menezesledilson-Spring boot" height="50" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg"/>
-    <img align="center" alt="menezesledilson-Postman" height="50" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg"/>
-   <img align="center" alt="menezesledilson-Github" height="50" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg"/>
- </div> 
-  <h3>Banco de Dados</h3>
+<h3>Backend</h3>
+<div style="display: inline_block"> 
+<img align="center" alt="menezesledilson-Idea" height="50" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg"/>
+<img align="center" alt="menezesledilson-Java" height="50" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"/>
+<img align="center" alt="menezesledilson-Spring boot" height="50" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg"/>
+<img align="center" alt="menezesledilson-Postman" height="50" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg"/>
+<img align="center" alt="menezesledilson-Github" height="50" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg"/>
+</div> 
+<h3>Banco de Dados</h3>
 <div style="display: inline_block">
-    <img align="center" alt="menezesledilson-PostgreSQL" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-    <img align="center" alt="menezesledilson-MySQl" height="50" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"/>
+<img align="center" alt="menezesledilson-PostgreSQL" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+<img align="center" alt="menezesledilson-MySQl" height="50" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"/>
 </div>
