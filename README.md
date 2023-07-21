@@ -2,7 +2,7 @@
 
   <h3>No momento </h3>
   
-- 🔭 Estudante curso bacharelado em Engenheira de Software  
+- 🔭 Estudante curso bacharelado em Engenharia de Software  
 - 🌱 Estudante  em Back-end Java
 - ⚡ Curiosidades: Mtb, viciado em café..
 
