@@ -46,3 +46,11 @@ Here are some ideas to get you started:
 <img align="center" alt="menezesledilson-PostgreSQL" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 <img align="center" alt="menezesledilson-MySQl" height="50" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"/>
 </div>
+
+<!--grafico de atividades -->
+<div align="center">  
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=menezesledilson&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="menezesledilson github stats" /> 
+  
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=menezesledilson&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+</div>
+
