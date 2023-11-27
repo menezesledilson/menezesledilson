@@ -45,7 +45,6 @@ Here are some ideas to get you started:
 <div style="display: inline_block">
 <img align="center" alt="menezesledilson-PostgreSQL" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 <img align="center" alt="menezesledilson-MySQl" height="50" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"/>
-<img align="center" alt="menezesledilson-Mongodb" height="50" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg"/>
   
 </div>
  
