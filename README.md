@@ -24,6 +24,9 @@ Here are some ideas to get you started:
 <h3 align = "left"> Conecte-se a mim: </h3>
 <div>  
  <a href="https://www.linkedin.com/in/ledilsonmenezes" target="_blank"> <img src = "https://img.shields.io/badge/-LinkedIn-%230077B5 ? style = for-the-badge & logo = linkedin & logoColor = white "target =" _ blank "> </a> 
+
+  <a href="http://www.github.com/jailson-jjs2"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=jailson-jjs2&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jailson-jjs2's GitHub stats" /></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jailson-jjs2&layout=compact&langs_count=10&theme=dark"/>
 </div>
 <div>
 <a href="https://github.com/menezesledilson">
