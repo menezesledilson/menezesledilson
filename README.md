@@ -53,6 +53,8 @@ Here are some ideas to get you started:
 <img align="center" alt="menezesledilson-PostgreSQL" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 <img align="center" alt="menezesledilson-MySQl" height="50" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"/>
 <img align="center" alt="menezesledilson-MongoDB" height="50" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg"/>
+<img align="center" alt="menezesledilson-SQLite" height="50" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg"/>
+ 
   
 </div>
  
