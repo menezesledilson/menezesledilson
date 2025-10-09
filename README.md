@@ -2,7 +2,9 @@
 
 <h3>No momento</h3>
 
-- 🔭 Estudante de Bacharelado em Engenharia de Software  
+- 🔭 Estudante de Sistema de informação
+- 🔭 Pós-graduação em Banco de Dados
+- 🔭 ADS 
 - 🌱 Focado em Back-end com Java  
 - ⚡ Curiosidades: MTB, viciado em café...
 
