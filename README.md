@@ -2,7 +2,7 @@
 
 <h3>No momento</h3>
 
-- 🔭 Estudante de Sistema de informação
+- 🔭 Engenharia de Software
 - 🔭 Pós-graduação em Banco de Dados
 - 🔭 ADS 
 - 🌱 Focado em Back-end com Java  
